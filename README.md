@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gneya Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Student at SSASIT. 👋 ReactJs developer | Exploring the art of turning data into actionable insights. Connect with me to share ideas and collaborate on exciting projects! 📊💻</h3>
+
+- 🌱 I’m currently learning **NodeJs,AngularJs**
+
+- 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **gneyapatel81202@gmail.com**
 
